@@ -8,3 +8,4 @@
 3. Connect DDJ-400 to PC
 
 ## How to Use
+Click [here](https://qiita.com/bloody_sweets/items/8274ae3662b4564a9a11)
